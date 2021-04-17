@@ -11,7 +11,7 @@ Meus hobbies são ler no meu Kindle📚 , aprender coisas novas👨🏽‍💻, 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GasparPSousa&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats) 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GasparPSousa&layout=compact&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GasparPSousa&layout=compact&show_icons=true&theme=ayu-mirage&exclude_repo=E-commerce_com_microsservicos_Java_Spring_Kafka_DIO)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
